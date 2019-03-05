@@ -117,6 +117,7 @@ GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
   - component: {fileID: 519420032}
@@ -314,7 +315,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7325e5edd206e43b0bf0bddcb71c7701, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spawnRate: 1
+  spawnRate: 0.9
   hexagonPrefab: {fileID: 1539233843665174, guid: d8db0129a93a643d5aaa5d9837afcfa2,
     type: 3}
 --- !u!4 &1463568490
